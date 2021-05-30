@@ -1,0 +1,9 @@
+{
+    "connection_file": "GwConnection.json",
+    "appAdmin": "admin",
+    "appAdminSecret": "adminpw",
+    "orgMSPID": "Org1MSP",
+    "caName": "org1ca-api.127-0-0-1.nip.io:8088",
+    "userName": "Org1 Admin",
+    "gatewayDiscovery": { "enabled": true, "asLocalhost": true  }
+}

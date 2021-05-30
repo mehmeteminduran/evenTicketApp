@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "eventExists",
+        "transactionLabel": "A test eventExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createEvent",
+        "transactionLabel": "A test createEvent transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readEvent",
+        "transactionLabel": "A test readEvent transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateEvent",
+        "transactionLabel": "A test updateEvent transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteEvent",
+        "transactionLabel": "A test deleteEvent transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
